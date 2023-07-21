@@ -151,7 +151,7 @@ In 2023, we participated in the Polkadot EU hackathon with a project called 'Pal
 | 7. | Marketting | Appoint community manager, setup discord server, incentivising LPs, ... |
 
 ## Future Plans
-We are planning to fully decentralise the Dapp in a later fase by adding a governance system and giving sudo privileges to a democratic body. 
+We are planning to fully decentralise the Dapp in a later phase by adding a governance system and giving sudo privileges to a democratic body. 
 
 ## Additional information
 We've heard about the Ink!ubator through team members from Astar. 
